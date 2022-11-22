@@ -1,2 +1,7 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
-Loading data set of Netflix, filter, manipulation, and visualization it. Implemented by using some packages of Python like pandas, and matplotlib. Using concepts of intermediate Python.
+###Objective:
+exploring movie durations since it started.
+
+Loading data set of Netflix, filtering, manipulating, and visualizing it.
+Implemented using pandas, and matplotlib. 
+Using intermediate Python.
